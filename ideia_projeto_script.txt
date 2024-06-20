@@ -1,0 +1,16 @@
+# Iniciar o projeto.
+	# Importe "Radons".
+	# Criar var (Numero secredo) (QDT)
+	# Gerar Number aleatorio para o jogo comeca	
+
+# Formulario de pergunta.
+	# Pergunta qual numero chutado.
+	
+# Logica e algoritmo
+	# fazer um loop, de verificacao.
+		# Se for igual - Vitoria
+		# Se for Maior - Numero secredo e menor
+		# Se for Menor = Number secredo e maior
+
+# Fazer um return mostrando os dados.
+	# return - Number secreto e tentativas.
